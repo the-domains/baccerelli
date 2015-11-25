@@ -1,6 +1,6 @@
 name: baccerelli
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.6711
 typography_spectrum: 0.41186
 title: digital arts
 cta:
@@ -22,7 +22,7 @@ color:
     - '#979797'
     - '#b33124'
     - '#4f7299'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 1

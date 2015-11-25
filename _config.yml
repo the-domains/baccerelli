@@ -1,7 +1,7 @@
 name: baccerelli
 favicon: null
-layout_spectrum: 0.22762136394158006
-typography_spectrum: 0.3393760188482702
+layout_spectrum: 0.99792
+typography_spectrum: 0.44136
 title: digital arts
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.92567622452043
-  lightness: 0.7057500053197145
-  saturation: 0.6642569683026522
-  rhythmicContrast: 0.6899539132136852
+    - '#ffffff'
+    - '#d4d1c0'
+    - '#979797'
+    - '#b33124'
+    - '#4f7299'
+  brandStrength: 0.9375
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
